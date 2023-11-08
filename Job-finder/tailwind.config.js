@@ -8,6 +8,8 @@ export default {
         greyIsh: "#f1f4f8",
         cardShadow: "#f7f8f9",
         textColor: "#252b36",
+        cardColor: "#f0f0f0",
+        hoverCard: "#5192a5",
       },
     },
   },
