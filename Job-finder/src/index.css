@@ -7,6 +7,9 @@
   font-family: "Poppins", sans-serif;
 }
 
+* {
+  transition: smooth;
+}
 body {
   background: white;
 }
