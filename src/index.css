@@ -35,6 +35,6 @@ li:hover::before {
   cursor: pointer;
 }
 
-/* .card {
-  background: $000;
-} */
+.card {
+  background: url(/src/assets/images.png);
+}
